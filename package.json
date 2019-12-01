@@ -1,0 +1,28 @@
+{
+  "name": "mysite",
+  "version": "1.0.0",
+  "description": "Simple static site using node and express",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARaut9/basic-site.git"
+  },
+  "keywords": [
+    "website",
+    "node",
+    "express"
+  ],
+  "author": "Ankit Raut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ARaut9/basic-site/issues"
+  },
+  "homepage": "https://github.com/ARaut9/basic-site#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
